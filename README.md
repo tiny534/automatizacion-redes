@@ -25,5 +25,18 @@ Se desarrolló un programa en Python para representar y consultar información d
 - Documentación: `docs/practica-03/README.md`
 - Evidencias: `docs/practica-03/evidencias/`
 
-## Próximos pasos
-Continuar con las prácticas de automatización de infraestructura de red y documentar los avances del proyecto.
+## Práctica 4. Recursos de colaboración y documentación técnica
+
+En esta práctica se investigaron recursos de documentación y comunidades de colaboración relacionados con Python, redes y automatización.
+
+Se consultaron la documentación oficial de Python, Stack Overflow en español, GitHub, GNS3 y Netmiko. También se evaluó la confiabilidad de distintas fuentes y se propuso una estrategia para resolver un problema técnico relacionado con la búsqueda de dispositivos de red.
+
+**Carpeta de la práctica:** `docs/practica-04/`
+
+**Archivos principales:**
+- `docs/practica-04/README.md`
+- `docs/practica-04/recursos-python.md`
+- `docs/practica-04/recursos-redes.md`
+- `docs/practica-04/comunidades-colaboracion.md`
+
+**Evidencias:** `docs/practica-04/evidencias/`
