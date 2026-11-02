@@ -40,3 +40,20 @@ Se consultaron la documentación oficial de Python, Stack Overflow en español, 
 - `docs/practica-04/comunidades-colaboracion.md`
 
 **Evidencias:** `docs/practica-04/evidencias/`
+
+
+## Práctica 05: Automatización de redes con Python
+
+Se desarrolló un script en Python para automatizar el acceso Telnet a un router Cisco desde GNS3.
+
+**Actividades realizadas:**
+- Configuración de acceso Telnet.
+- Automatización de comandos mediante Python y Telnetlib.
+- Creación de las interfaces Loopback0 y Loopback1.
+- Configuración del protocolo de enrutamiento OSPF.
+- Verificación de las configuraciones en el router R1.
+
+**Archivos:**
+- Código: `src/automatizacion_telnet.py`
+- Documentación: `docs/practica-05/README.md`
+- Evidencias: `docs/practica-05/evidencias/`
